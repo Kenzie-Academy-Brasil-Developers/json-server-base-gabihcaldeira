@@ -6,6 +6,43 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "gabi@mail.com",
+      "password": "$2a$10$8dXDbhjCkKoYPJ8kV77ADOLGaRE9G.Xj4icg7x36k1s8iyuLS0sGm",
+      "name": "Gabriela",
+      "age": 27,
+      "bio": "uma bio bem aqui",
+      "id": 2
+    }
+  ],
+  "posts": [
+    {
+      "title": "First Post",
+      "content": "This post has been updated",
+      "id": 1
+    },
+    {
+      "title": "updated Second post",
+      "content": "This post is the second post!",
+      "id": 2
+    },
+    {
+      "title": "Third Post",
+      "content": "This post is the just another post!",
+      "id": 3
+    }
+  ],
+  "tasks": [
+    {
+      "userId": 2,
+      "title": "shopping List",
+      "list": [
+        "bread",
+        "milk",
+        "oats"
+      ],
+      "id": 1
     }
   ]
 }
